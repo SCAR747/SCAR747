@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SCAR747
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ Projects
+- 👀 I’m interested in Java and Android Development
+- 🌱 I’m currently learning Java, Kotlin and Android Studio
+- 💞️ I’m looking to collaborate on Android and Java Projects
 - 📫 How to reach me - pagartushar2907@gmail.com
 
 <!---
