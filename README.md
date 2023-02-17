@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushar Pagar.
-- 👀 I’m interested in Java and Android Development.
-- 🌱 I’m currently learning Java, Kotlin and Android Studio.
-- 💞️ I’m looking to collaborate on Android and Java Projects.
+- 👀 I’m interested in Java, Android Development and Frontend Web Development.
+- 🌱 I’m currently learning Java, Kotlin, Android Studio and Frontend Web Development.
+- 💞️ I’m looking to collaborate on Android, Java and Frontend Projects.
 - 📫 How to reach me - mail me at - pagartushar2907@gmail.com
 -                      twitter - @Cloudgrandpa
 -                      linkedIn - https://www.linkedin.com/in/tushar-pagar-053491221/ 
