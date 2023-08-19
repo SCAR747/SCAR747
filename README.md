@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Backend Web Development.
 - 💞️ I’m looking to collaborate on Full-Stack Projects.
-- Tech-stack:
+- Tech-stack: 
+
  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,mysql,mongodb,postman,git,figma)](https://skillicons.dev)
 
 
