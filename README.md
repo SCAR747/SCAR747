@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full-Stack Projects.
 - Tech-stack: 
 
- [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,mysql,mongodb,postman,git,figma)](https://skillicons.dev)
+-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,expressjs,mysql,mongodb,postman,git,figma)](https://skillicons.dev)
 
 
 - 📫 How to reach me - mail me at - pagartushar2907@gmail.com
