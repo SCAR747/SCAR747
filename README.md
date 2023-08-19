@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Web Development.
 - 💞️ I’m looking to collaborate on Full-Stack Projects.
 - Tech-stack:
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
 
 - 📫 How to reach me - mail me at - pagartushar2907@gmail.com
